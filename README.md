@@ -1,5 +1,5 @@
 # SocialMediaApplication
-This Project contains multiple microservices for social media application.
+This Project contains multiple microservices for a social media application with services such as user-service, media-service, user-profile-service & user-feed-service. 
 
 MicroServices:
 1. User Service - To register users & add connections.
